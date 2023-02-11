@@ -1,0 +1,17 @@
+{
+    "name":"Tools-Simplified",
+    "description":"A package of several different basic calculation tools",
+    "version":"1.0.0",
+    "manifest_version": 3,
+    "background":{
+        "service_worker":"background.js"
+    },
+    "action":{
+        "default_popup": "popup.html"
+    },
+    "icons":{
+        "16":"/icon.png",
+        "32":"/icon.png",
+        "48":"/icon.png"
+    }
+}

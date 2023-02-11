@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+    background-image: -webkit-linear-gradient(45deg, #A683E3 50%, #E4E9FD 50%);
+ 
+}
+.btn{
+    text-align: left;
+    margin: 8px;
+}
+button {
+    height: 45px;
+    width: 90px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    border-color: rgb(78, 221, 209);
+    border-width: 4px;
+    font-size: 15px;
+}
+.roww{
+    border-color:rgb(201, 22, 22);
+    border-width: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+
