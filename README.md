@@ -6,15 +6,15 @@ A chrome extension with different types of calculators to make things easy for y
 
 ![image](https://user-images.githubusercontent.com/91717130/218332467-f33d1765-6b9c-40ff-bb0f-c544150816a9.png)
 
-<i>Bitwise Logic Calculator</i>
+<i><b>Bitwise Logic Calculator</b></i>
 
 ![image](https://user-images.githubusercontent.com/91717130/218332503-911d24ea-01d6-49af-a162-82f275674191.png)
 
-<i>BMI Calculator</i>
+<i><b>BMI Calculator</b></i>
 
 ![image](https://user-images.githubusercontent.com/91717130/218332570-2bc2b135-7671-4b70-9b9b-17384eb288d4.png)
 
-<i>Remainder Calculator</i>
+<i><b>Remainder Calculator</b></i>
 
 ![image](https://user-images.githubusercontent.com/91717130/218332607-2a15cd26-0bf1-420c-b18f-ec4db71775d6.png)
 
